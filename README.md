@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ollama-rag-implementation
 rag from scratch
 =======
@@ -157,14 +156,3 @@ The top-ranked chunks are passed to Ollama for answer generation.
 ### **Ollama Setup**
 - Ensure the Ollama server is running locally at `localhost:11434`.
 - Update the model name in `src/ollama_client.py` if necessary.
-
----
-
-## **Contributing**
-We welcome contributions! Feel free to open an issue or submit a pull request.
-
----
-
-## **License**
-This project is licensed under the MIT License.
->>>>>>> 5e63d90 (First commit)
