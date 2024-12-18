@@ -1,5 +1,5 @@
 # ollama-rag-implementation
-rag from scratch
+
 =======
 # Ollama Integration with Retrieval-Augmented Generation (RAG)
 
