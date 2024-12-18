@@ -1,0 +1,5 @@
+nltk
+requests
+pyserini
+sentence-transformers
+numpy
