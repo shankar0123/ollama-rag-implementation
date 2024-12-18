@@ -1,8 +1,5 @@
 # ollama-rag-implementation
 
-=======
-# Ollama Integration with Retrieval-Augmented Generation (RAG)
-
 This project integrates advanced document retrieval and generation techniques to build a **Retrieval-Augmented Generation (RAG)** pipeline. It demonstrates how to use **RankBM25**, **SentenceTransformers**, and **Ollama** to process a collection of documents, identify relevant chunks, and generate context-aware answers to user queries.
 
 ---
